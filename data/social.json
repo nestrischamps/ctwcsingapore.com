@@ -1,24 +1,29 @@
 {
   "main": [
     {
+      "name": "discord",
+      "icon": "fab fa-discord",
+      "link": "https://discord.gg/3xGnAGbMft"
+    },
+    {
+      "name": "youtube",
+      "icon": "fab fa-youtube",
+      "link": "https://www.youtube.com/c/ClassicTetris"
+    },
+    {
+      "name": "twitch",
+      "icon": "fab fa-twitch",
+      "link": "https://www.twitch.tv/classictetris"
+    },
+    {
       "name": "facebook",
       "icon": "fab fa-facebook",
-      "link": "https://www.facebook.com/"
+      "link": "https://www.facebook.com/ClassicTetris/"
     },
     {
       "name": "twitter",
       "icon": "fab fa-twitter",
-      "link": "https://twitter.com/"
-    },
-    {
-      "name": "github",
-      "icon": "fab fa-github",
-      "link": "https://www.github.com/"
-    },
-    {
-      "name": "linkedin",
-      "icon": "fab fa-linkedin",
-      "link": "https://www.linkedin.com/"
+      "link": "https://x.com/ClassicTetris"
     }
   ]
 }
