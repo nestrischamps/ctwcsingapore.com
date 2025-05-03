@@ -1,9 +1,11 @@
 ---
-title: "Hey, I am John Doe!"
+title: "We are the Classic Tetris Singapore community"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/avatar.png"
+image: ""
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+{{< image src="images/2024_participants.jpg" caption="The awesome member of the Classic Tetris Singapore community" alt="The awesome member of the Classic Tetris Singapore community" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
+
+We are a small community of enthusiats crazy about Classic Tetris. We play on emulators and on authentic retro hardware too!

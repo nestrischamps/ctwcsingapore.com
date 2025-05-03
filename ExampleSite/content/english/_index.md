@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  # title: "Classic Tetris Singapore"
+  title: "Classic Tetris Singapore"
   # content: "ClassicTetris SIngapore is the home of a small community of local enthusiasts who love playing Classic Tetris."
   image: "/images/CTSC_Gradient.webp"
   button:
@@ -12,11 +12,15 @@ banner:
 # Features
 features:
   - title: "Classic Tetris Singapore 2025"
-    image: "/images/poster2025.jpg"
-    content: "Classic Tetris World Championship is coming to Singapore again!"
+    image: "/images/2024_setup.jpg"
+    content: "Classic Tetris World Championship Singapore"
     bulletpoints:
-      - "June 21st 2025 9am to 6pm"
-      - "Alta Studio, 996 Bendemeer Rd, #06-06, Singapore 339944"
+      - "10+ Pre-build pages"
+      - "95+ Google Pagespeed Score"
+      - "Build with Hugo and TailwindCSS for easy and customizable styling"
+      - "Fully responsive on all devices"
+      - "SEO-optimized for better search engine rankings"
+      - "**Open-source and free** for personal and commercial use"
     button:
       enable: false
       label: "Get Started Now"
@@ -26,8 +30,8 @@ features:
     image: "/images/2024_participants.jpg"
     content: ""
     bulletpoints:
-      - "10 Participants"
-      - "World-class actions"
+      - "More player"
+      - "More action"
       - "Great showcase of Tetris prowess on all styles!"
     button:
       enable: false
