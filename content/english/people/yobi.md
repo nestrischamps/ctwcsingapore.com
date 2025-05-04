@@ -1,7 +1,7 @@
 ---
 title: Yobi
 image: "/images/people/yobi.jpg"
-description: this is meta description
+description: Retro Gamer, Creator of NesTrisChamps
 social:
   - name: github
     icon: fa-brands fa-github

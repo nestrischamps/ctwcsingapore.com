@@ -2,7 +2,7 @@
 title: AllenBot
 # email: johndoe@email.com
 image: "images/people/allenbot.jpg"
-description: Allen is the current Singapore Champion and Organiser of Clasic Tetris Singapore 2022 and 2023!
+description: Classic Tetris Singapore Champion
 ---
 
 AllenBot is the current Singapore Champion and Organiser of Clasic Tetris Singapore 2023 and 2024!

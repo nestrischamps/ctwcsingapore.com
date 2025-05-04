@@ -50,9 +50,9 @@ link = "contact"
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]
-enable = false
+enable = true
 primary_color = "#121212"
-include_sections = ["blog"]
+include_sections = ["blog", "people"]
 show_image = true
 show_description = true
 show_tags = true
