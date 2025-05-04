@@ -2,6 +2,7 @@
 title: Tim Wong
 # email: johndoe@email.com
 image: "/images/people/timwong.jpg"
+description: Classic Tetris organizer and commentator extraordinaire
 # social:
 #   - name: github
 #     icon: fa-brands fa-github
