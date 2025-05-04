@@ -20,11 +20,8 @@ defaults:
 # Environment variables available to all jobs and steps in this workflow
 env:
   HUGO_ENV: production
-  HUGO_VERSION: "0.141.0"
-  GO_VERSION: "1.23.3"
-  TINA_CLIENT_ID: ${{ secrets.TINA_CLIENT_ID }}
-  TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
-  TINA_SEARCH_TOKEN: ${{ secrets.TINA_SEARCH_TOKEN }}
+  HUGO_VERSION: "0.146.7"
+  GO_VERSION: "1.24.2"
 
 jobs:
   # Build job
@@ -47,32 +44,8 @@ jobs:
           submodules: recursive
           fetch-depth: 0
 
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
-
-      - name: Setup Project
-        run: npm run project-setup
-
       - name: Install npm dependencies
         run: npm install
 
       - name: Build site
         run: npm run build
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3.0.1
-        with:
-          path: ./public
-
-  # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-24.04-arm
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4.0.5
