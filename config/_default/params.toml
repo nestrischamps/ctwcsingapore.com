@@ -69,7 +69,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Tetris", "Classic Tetris", "Singapore"]
-description = "Hugo & Tailwindcss Starter"
+description = "Classic Tetris Action In Singapore"
 author = "Yobi"
 twitter = ""
 image = "images/CTSC_Gradient.webp"
