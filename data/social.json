@@ -21,6 +21,11 @@
       "link": "https://www.facebook.com/ClassicTetris/"
     },
     {
+      "name": "instagram",
+      "icon": "fab fa-instagram",
+      "link": "https://www.instagram.com/classictetris.sg/"
+    },
+    {
       "name": "twitter",
       "icon": "fab fa-twitter",
       "link": "https://x.com/ClassicTetris"

@@ -17,4 +17,4 @@ description: Classic Tetris organizer and commentator extraordinaire
 #     link: https://linkedin.com
 ---
 
-Tim is a Classic Tetris enthusiat, co-organizer and commentator of Classic Tetris Singapore 2023, 2024, and 2025.
+Tim is a Classic Tetris enthusiat, co-organizer and commentator of Classic Tetris Singapore 2022-2025.
