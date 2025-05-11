@@ -17,4 +17,4 @@ description: Classic Tetris organizer and commentator extraordinaire
 #     link: https://linkedin.com
 ---
 
-Classic Tetris enthusiat, co-organizer and commentator extraordinaire of Classic Tetris Singapore 2022-2025.
+Classic Tetris enthusiast, co-organizer and commentator extraordinaire of Classic Tetris Singapore 2022-2025.
