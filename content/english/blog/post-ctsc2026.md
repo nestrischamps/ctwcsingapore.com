@@ -14,7 +14,7 @@ draft: false
 
 **June 13th 9am to 6pm**
 
-## Where?`
+## Where?
 
 [Room2F](https://www.room2f.sg/)!
 
