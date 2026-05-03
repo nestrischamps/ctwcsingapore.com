@@ -25,7 +25,7 @@
               {{ end }}
             {{ end }}
           </div>
-          <div class="col-12"><a href="/blog/post-ctsc2025/">
+          <div class="col-12"><a href="{{ .button.link | absURL }}">
             {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}
           </a></div>
         </div>
