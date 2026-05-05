@@ -13,7 +13,7 @@ draft: false
 
 ## When?
 
-**June 13th 9am to 6pm**
+**Sunday, June 21st 2026, from 9am to 6pm**
 
 ## Where?
 
