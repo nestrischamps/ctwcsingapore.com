@@ -23,4 +23,4 @@ draft: false
 
 ## Register
 
-Join by filling the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSeRHtN2dTHT7jIZjXdDLA2DZpFfGc_liVVgiVzEMUDVp3OSww/viewform?usp=dialog)!
+Join by filling the [registration form](https://forms.gle/enxX2uQrbDZ6Mskk8)!
