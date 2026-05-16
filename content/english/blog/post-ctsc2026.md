@@ -2,7 +2,7 @@
 title: "Announcing CTWC Singapore Regionals 2026"
 date: 2026-05-03T11:09:14+08:00
 description: "Another great CTWC Singapore Regionals is coming!"
-image: "/images/poster2026.blog.jpg"
+image: "/images/poster2026.blog.webp"
 categories: ["Meetup", "Regional"]
 author: "Yobi"
 tags: ["meetup", "regional"]

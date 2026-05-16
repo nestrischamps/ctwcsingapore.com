@@ -3,7 +3,7 @@
 banner:
   # title: "Classic Tetris Singapore"
   # content: "ClassicTetris Singapore is the home of a small community of local enthusiasts who love playing Classic Tetris."
-  image: "/images/poster2026.webp"
+  image: "/images/poster2026.hr.webp"
   button:
     enable: false
     label: "Register to Classic Tetris Singapore 2026"
